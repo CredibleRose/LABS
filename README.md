@@ -10,6 +10,6 @@
 
 Для успешной сдачи необходимо предоставить описание протокола. 
 
-Starting App
+#Starting App
 
 Just paste code from script.js to script tag <script> ... </script> in first task
